@@ -1,0 +1,19 @@
+* {
+font-family: 'Titillium Web', sans-serif;
+background-color: chartreuse;
+}
+h1 {
+ background-color: aqua;
+ display:inline-block;
+ border: 5px solid gray;
+ margin-bottom: 30px;
+
+
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color:green
+}
